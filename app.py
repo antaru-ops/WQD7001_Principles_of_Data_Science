@@ -192,7 +192,7 @@ elif page == "2. Policy Gap Forecaster (2030)":
                 m.fit(prophet_df)
                 
                 # Forecast
-                future = m.make_future_dataframe(periods=8, freq='Y')
+                future = m.make_future_dataframe(periods=8, freq='YS')
                 forecast = m.predict(future)
                 
                 pred_2030 = forecast.iloc[-1]['yhat']
