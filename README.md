@@ -16,7 +16,7 @@ Methodology: Utilizes Prophet (Meta's time-series library) compared against a ba
 Insight: Calculates the "Policy Deficit"—the gap between a nation's 2030 aspirational target and the ML-predicted trajectory—providing a metric for necessary structural intervention.
 
 🚀 Deployment & Installation
-This application is built with Streamlit and is hosted live at: Here
+This application is built with Streamlit and is hosted live at: [Here](https://wqd7001principlesofdatascience-qq2ktyzknxth6zywngcvau.streamlit.app/)
 
 Local Setup
 To run this project locally, ensure you have Python 3.9+ installed:
