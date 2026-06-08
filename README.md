@@ -18,6 +18,10 @@ Insight: Calculates the "Policy Deficit"—the gap between a nation's 2030 aspir
 🚀 Deployment & Installation
 This application is built with Streamlit and is hosted live at: [Here](https://wqd7001principlesofdatascience-qq2ktyzknxth6zywngcvau.streamlit.app/)
 
+### 🖥️ Application Preview
+![App Preview](Screenshot_Module1.png)
+![App Preview](Screenshot_Module2.png)
+
 Local Setup
 To run this project locally, ensure you have Python 3.9+ installed:
 
