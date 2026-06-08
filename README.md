@@ -23,9 +23,8 @@ This application is built with Streamlit and is hosted live at: [Here](https://w
 ![App Preview](Screenshot_Module2.png)
 
 Local Setup
-To run this project locally, ensure you have Python 3.9+ installed:
+To run this project locally, ensure you have Python 3.9+ installed
 
-Bash
 # Clone the repository
 git clone [here](https://github.com/antaru-ops/WQD7001_Principles_of_Data_Science.git)
 
