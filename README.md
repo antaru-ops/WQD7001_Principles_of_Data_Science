@@ -16,15 +16,14 @@ Methodology: Utilizes Prophet (Meta's time-series library) compared against a ba
 Insight: Calculates the "Policy Deficit"—the gap between a nation's 2030 aspirational target and the ML-predicted trajectory—providing a metric for necessary structural intervention.
 
 🚀 Deployment & Installation
-This application is built with Streamlit and is hosted live at:
-[👉 Link to Streamlit App Here](https://github.com/antaru-ops/WQD7001_Principles_of_Data_Science.git)
+This application is built with Streamlit and is hosted live at: Here
 
 Local Setup
 To run this project locally, ensure you have Python 3.9+ installed:
 
 Bash
 # Clone the repository
-git clone [Your-GitHub-Link]
+git clone [here](https://github.com/antaru-ops/WQD7001_Principles_of_Data_Science.git)
 
 # Install dependencies
 pip install -r requirements.txt
