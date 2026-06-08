@@ -30,8 +30,9 @@ pip install -r requirements.txt
 
 # Launch the app
 streamlit run app.py
+
 📊 Technical Stack
-Language: Python 3.x
+Language: Python 3.13.5
 
 Frontend: Streamlit
 
